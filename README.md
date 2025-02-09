@@ -8,8 +8,12 @@ The design should be inspired by the existing website (www.byteuprise.com) to ma
 A good mobile app design should be:
 
 **- Visually Consistent:** Aligns with the branding of the ByteUprise website.
+
 **- User-Friendly:** Easy to navigate with a clear and intuitive interface.
+
 **- Functional:** Includes all necessary features and information.
+
 **- Responsive:** Optimized for various mobile devices and screen sizes.
+
 **- Interactive:** Engages users with interactive elements and smooth transitions.
 
